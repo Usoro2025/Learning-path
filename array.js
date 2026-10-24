@@ -12,3 +12,7 @@ for(let i = 0; i < students.length; i++) {
     break;
 }
 
+function name(user){
+    console.log(`The name of the student is ${user}`);
+}
+    name('Ebika');
